@@ -11,7 +11,7 @@ const Nav = ({ libraryStatus, setLibraryStatus }) => {
           src="../sound-wave.svg"
           alt=""
         />
-        <h1>Waves</h1>
+        <h1>Vibrations</h1>
       </div>
       <button onClick={() => setLibraryStatus(!libraryStatus)}>
         Library
